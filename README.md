@@ -11,23 +11,23 @@ Users can also update their info, remove friends from their friend list, update 
 
 #### Creating a new User:
 
-![Creating a new User](./assets/images/screenshot-1.JPG)
+![Creating a new User](https://user-images.githubusercontent.com/95327275/165320278-8ac017fd-cccc-49eb-8e00-c25945e63cfa.jpg)
 
 #### Creating a Thought made by a User:
 
-![Creating a Thought](./assets/images/screenshot-2.JPG)
+![Creating a Thought](https://user-images.githubusercontent.com/95327275/165320282-aa2fc0c5-090b-4a69-bd71-1fcea53657ca.jpg)
 
 #### Get all Users:
 
-![Get all Users](./assets/images/screenshot-3.JPG)
+![Get all Users](https://user-images.githubusercontent.com/95327275/165320286-d499889a-9d89-46e8-a333-e1cac9375620.jpg)
 
 #### Adding a Reaction to a Thought:
 
-![Add a Reaction to a Thought](./assets/images/screenshot-4.JPG)
+![Add a Reaction to a Thought](https://user-images.githubusercontent.com/95327275/165320290-6e331dc7-8b53-4810-9091-a06bef639cca.jpg)
 
 #### Adding a Friend to a User's friend list:
 
-![Add a Friend](./assets/images/screenshot-5.JPG)
+![Add a Friend](https://user-images.githubusercontent.com/95327275/165320293-0ad77411-812a-4205-a811-60dc7898a354.jpg)
 
 ## Table of Contents
 
