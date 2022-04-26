@@ -14,7 +14,6 @@ app.use(require('./routes'));
 
 //--- Connect to the MONGODB_URI database or the local DB ---//
 mongoose.connect(process.env.MONGODB_URI || 'mongodb://127.0.0.1/social-network', {
-    useFindAndModify: false,
     useNewUrlParser: true,
     useUnifiedTopology: true
 });
